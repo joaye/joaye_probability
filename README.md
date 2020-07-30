@@ -4,17 +4,17 @@ This package consist of a set of python codes from Udacity AWS Machine Learning 
 
 # Background
 ## Gaussian Distribution
-### Probability Density Function\
+### Probability Density Function
 ![gaussian  pdf](https://github.com/joaye/joaye_probability/blob/master/img/gaussian_pdf.PNG)
 
 ## Binomial Distribution
-### Binomial Mean\
+### Binomial Mean
 ![binomial mean](https://github.com/joaye/joaye_probability/blob/master/img/binom_mean.PNG)
-### Binomial Variance\
+### Binomial Variance
 ![binomial mean](https://github.com/joaye/joaye_probability/blob/master/img/binom_variance.PNG)
-### Binomial Standard Deviation\
+### Binomial Standard Deviation
 ![binomial mean](https://github.com/joaye/joaye_probability/blob/master/img/binom_stdev.PNG)
-###Probability Density Function\
+### Probability Density Function
 ![binomial mean](https://github.com/joaye/joaye_probability/blob/master/img/binom_pdf.PNG)
 
 # Files
