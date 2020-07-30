@@ -3,8 +3,22 @@
 This package consist of a set of python codes from Udacity AWS Machine Learning Foundations course where the goal is to deploy a package onto PyPi for Gaussian and Binomial Distribution.
 
 # Background
-## Gaussian Distribution Formula
+## Gaussian Distribution
 Probability Density Function
+![gaussian  pdf](https://github.com/joaye/joaye_probability/tree/master/img/gaussian_pdf.png)
+
+## Binomial Distribution
+Binomial Mean
+![binomial mean](https://github.com/joaye/joaye_probability/tree/master/img/binom_mean.png)
+Binomial Variance
+![binomial mean](https://github.com/joaye/joaye_probability/tree/master/img/binom_variance.png)
+Binomial Standard Deviation
+![binomial mean](https://github.com/joaye/joaye_probability/tree/master/img/binom_stdev.png)
+Probability Density Function
+![binomial mean](https://github.com/joaye/joaye_probability/tree/master/img/binom_pdf.png)
+
+
+
 
 
 # Files
