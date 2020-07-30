@@ -1,6 +1,11 @@
 # joaye-probability package
 
-This package consist of a set of python codes from Udacity AWS Machine Learning Foundations course.
+This package consist of a set of python codes from Udacity AWS Machine Learning Foundations course where the goal is to deploy a package onto PyPi for Gaussian and Binomial Distribution.
+
+# Background
+## Gaussian Distribution Formula
+Probability Density Function
+
 
 # Files
 
